@@ -1,1 +1,1 @@
-export let colors = ['rgb(0,255,164)', 'rgb(166,104,255)'];
+export let colors = ['rgb(253,236,166)', 'rgb(181,7,24)'];
