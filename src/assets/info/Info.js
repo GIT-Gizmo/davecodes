@@ -31,7 +31,7 @@ export const info = {
       label: 'resume',
     },
     {
-      link: 'https://instagram.com/andy_lgc?igshid=YmMyMTA2M2Y=',
+      link: 'https://instagram.com/xxuan.i?igshid=YmMyMTA2M2Y=',
       icon: 'fa fa-instagram',
       label: 'instagram',
     },
