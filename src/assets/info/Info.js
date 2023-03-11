@@ -41,7 +41,7 @@ export const info = {
       label: 'github',
     },
     {
-      link: 'www.linkedin.com/in/ingrid-xuan-fei',
+      link: 'https://www.linkedin.com/in/ingrid-xuan-fei/',
       icon: 'fa fa-linkedin',
       label: 'linkedin',
     },
