@@ -57,6 +57,10 @@ export const info = {
       emoji: '📷',
     },
     {
+      label: 'Video games',
+      emoji: '🎮',
+    },
+    {
       label: 'Guitar',
       emoji: '🎸',
     },
